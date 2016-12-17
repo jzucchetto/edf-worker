@@ -1,0 +1,8 @@
+c:\users\julianot\documents\visual studio 2015\Projects\EdfWorker\EdfWorker\bin\Debug\EdfWorker.exe.config
+c:\users\julianot\documents\visual studio 2015\Projects\EdfWorker\EdfWorker\bin\Debug\EdfWorker.exe
+c:\users\julianot\documents\visual studio 2015\Projects\EdfWorker\EdfWorker\bin\Debug\EdfWorker.pdb
+c:\users\julianot\documents\visual studio 2015\Projects\EdfWorker\EdfWorker\bin\Debug\RabbitMQ.Client.dll
+c:\users\julianot\documents\visual studio 2015\Projects\EdfWorker\EdfWorker\bin\Debug\RabbitMQ.Client.xml
+c:\users\julianot\documents\visual studio 2015\Projects\EdfWorker\EdfWorker\obj\Debug\EdfWorker.csprojResolveAssemblyReference.cache
+c:\users\julianot\documents\visual studio 2015\Projects\EdfWorker\EdfWorker\obj\Debug\EdfWorker.exe
+c:\users\julianot\documents\visual studio 2015\Projects\EdfWorker\EdfWorker\obj\Debug\EdfWorker.pdb
