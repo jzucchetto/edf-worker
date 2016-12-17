@@ -18,7 +18,7 @@ namespace EdfWorker
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {
-                var q = "edf_asset";
+                var q = "edf_asset"; 
 
                 channel.QueueDeclare(queue: q,
                     durable: true,
